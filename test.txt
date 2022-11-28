@@ -1,3 +1,5 @@
-This is manoiher commit!
+This is my first commit!
+
+I am adding new feature
 
 Add here we go to commit #2!
